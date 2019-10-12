@@ -22,14 +22,14 @@ Check out our main [Venom](https://github.com/PreferredAI/Venom) page for more i
 ## Examples
 venom-examples includes a set of tutorial designed to quickly get you from 0 to 100.
 
-There are 3 examples located in the package ai.preferred.crawler.single, ai.preferred.crawler.stackoverflow and ai.preferred.crawler.iproperty. 
+There are 3 examples located in the package ai.preferred.crawler.single, ai.preferred.crawler.hungrygowhere and ai.preferred.crawler.iproperty. 
 
 If you would like to find out more, feel free to visit our [Wiki](https://github.com/PreferredAI/venom/wiki).
 
 #### ai.preferred.crawler.single.SingleCrawler.java
 A basic crawler to get your current IP.
 
-#### ai.preferred.crawler.stackoverflow.master.ListingCrawler.java
+#### ai.preferred.crawler.hungrygowhere.master.ListingCrawler.java
 A crawler to get the job listings for Singapore on [StackOverflow](https://stackoverflow.com/jobs?l=Singapore&d=20&u=Km) and export to a CSV file.
 
 #### ai.preferred.crawler.iproperty.master.ListingCrawler.java

@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ai.preferred.crawler.stackoverflow.master;
+package ai.preferred.crawler.hungrygowhere.master;
 
 import ai.preferred.crawler.EntityCSVStorage;
-import ai.preferred.crawler.stackoverflow.entity.Listing;
+import ai.preferred.crawler.hungrygowhere.entity.Listing;
 import ai.preferred.venom.Handler;
 import ai.preferred.venom.Session;
 import ai.preferred.venom.Worker;

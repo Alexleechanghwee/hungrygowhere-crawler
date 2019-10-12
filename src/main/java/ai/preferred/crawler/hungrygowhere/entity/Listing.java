@@ -1,4 +1,4 @@
-package ai.preferred.crawler.stackoverflow.entity;
+package ai.preferred.crawler.hungrygowhere.entity;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
